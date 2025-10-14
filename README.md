@@ -3,14 +3,14 @@
 This report analyzes the total electricity production by energy source and the percentage contribution of each source to the annual demand in Italy from 2006 to 2023. Additionally, it examines the evolution of production and coverage of electricity demand over the same period.
 
 ## Total Production by Energy Source (2006-2023)
-![aa](results/images/results/images/prodxfonte.png)
+![aa](results/images/prodxfonte.png)
 - Geotermoelettrico: Dominates with approximately 7 million GWh, indicating a significant reliance on geothermal energy.
 - Idrico: Contributes around 2 million GWh, showing a moderate role in the energy mix.
 - Fotovoltaico: Produces about 1 million GWh, reflecting growing solar energy adoption.
 - Eolico: Contributes approximately 0.5 million GWh, indicating a smaller but increasing presence of wind energy.
 
 ## Percentage Contribution by Energy Source (2006-2023)
-![aa](results/images/prod+coptrendtempo.png)
+
 - The overall percentage of each energy source's contribution to demand has fluctuated over the years.
 - Geotermoelettrico remains the leading contributor, peaking above 70% in the early years (2006-2008) and stabilizing around 50-60% in recent years.
 - Idrico shows a gradual increase, reaching a peak of around 20% around 2013-2014, then stabilizing.
