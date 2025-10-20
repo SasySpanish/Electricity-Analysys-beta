@@ -16,7 +16,7 @@ This repository contains datasets related to the production and coverage of elec
 
 - Notes: Data includes both gross (Lorda) and net (Netta) production values. Some entries may contain minimal production (e.g., 0.000233 GWh) for certain sources like Eolico.
 
-## 2. Coverage Data (2005-2023_cover.csv)
+### 2. Coverage Data (2005-2023_cover.csv)
 
 - Description: Provides data on the coverage of electricity demand by energy source and region.
 - Columns:
